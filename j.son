@@ -2,7 +2,7 @@
   "name": "Sasta GTA",
   "short_name": "GTA",
   "description": "Isme aap missions kar sakte ho, ghar ke andar ja sakte ho aur wanted level bhi hota hai.",
-  "start_url": "/",
+  "start_url": "/Sasta-gta-5/",
   "display": "standalone",
   "orientation": "landscape",
   "background_color": "#87ceeb",
@@ -15,4 +15,3 @@
     }
   ]
 }
-"start_url": "index.html"
