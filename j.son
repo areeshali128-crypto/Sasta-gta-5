@@ -13,4 +13,6 @@
       "type": "image/png"
     }
   ]
-}
+}git add .
+git commit -m "Added PWA manifest"
+git push
