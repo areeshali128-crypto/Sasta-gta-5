@@ -16,3 +16,9 @@
 }git add .
 git commit -m "Added PWA manifest"
 git push
+{
+  "name": "sasta gta",
+  "short_name": "grand theft auto",
+  "description": "isme ap log missions karsakete ho
+apne ghar ke andar ja sakte ho or toh aur isme
+wanted level bhi hota hai"
