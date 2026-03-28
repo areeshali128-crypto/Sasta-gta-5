@@ -1,7 +1,8 @@
 {
-  "name": "3D Landscape Game",
-  "short_name": "3DLGame",
-  "start_url": "index.html",
+  "name": "Sasta GTA",
+  "short_name": "GTA",
+  "description": "Isme aap missions kar sakte ho, ghar ke andar ja sakte ho aur wanted level bhi hota hai.",
+  "start_url": "/",
   "display": "standalone",
   "orientation": "landscape",
   "background_color": "#87ceeb",
@@ -13,12 +14,4 @@
       "type": "image/png"
     }
   ]
-}git add .
-git commit -m "Added PWA manifest"
-git push
-{
-  "name": "sasta gta",
-  "short_name": "grand theft auto",
-  "description": "isme ap log missions karsakete ho
-apne ghar ke andar ja sakte ho or toh aur isme
-wanted level bhi hota hai"
+}
